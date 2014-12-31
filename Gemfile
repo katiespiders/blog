@@ -52,3 +52,7 @@ end
 group :production do
   gem "rails_12factor"
 end
+
+gem "redcarpet", "~> 3.0.0"
+gem "forgery", "~> 0.6.0"
+gem "haml", "~> 4.0.6"
